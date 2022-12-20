@@ -4243,7 +4243,6 @@ and (max-width: 1023) {
     text-align: center;
   }
 
-
   #psg-hero .psg-hero-container-subheading h1 {
     color: #eee;
     padding-top: 19%;
@@ -4290,6 +4289,11 @@ and (max-width: 1023) {
     padding: 11% 0% 0% 0%;
     width: 150%;
     height: 100%;
+  }
+  
+  #psg-hero .upload-text p{
+  color:rgb(255, 255, 255);
+  font-size: 68%;
   }
 
   /*2nd Page Hero*/
@@ -5172,6 +5176,11 @@ and (max-width: 1023) {
     padding: 45% 0% 0% 0%;
     width: 150%;
     height: 100%;
+  }
+
+  #psg-hero .upload-text p{
+    color:rgb(255, 255, 255);
+    font-size: 68%;
   }
 
   /*2nd Page Hero*/
