@@ -982,6 +982,7 @@ h6 {
 }
 
 #psg-hero .upload-text p{
+  text-align: center;
   color:rgb(255, 255, 255)
 }
 
@@ -5178,7 +5179,7 @@ and (max-width: 1023) {
     height: 100%;
   }
 
-  #psg-hero .upload-text p{
+  #psg-hero .upload-text p {
     color:rgb(255, 255, 255);
     font-size: 68%;
   }
@@ -6159,6 +6160,11 @@ and (max-width: 1023) {
     width: 150%;
     height: 100%;
   }
+
+  #psg-hero .upload-text p{
+    color:rgb(255, 255, 255);
+    font-size: 68%;
+    }
 
   /*2nd Page Hero*/
   #psg-hero-2 .psg-hero-container-subheading h1 {
