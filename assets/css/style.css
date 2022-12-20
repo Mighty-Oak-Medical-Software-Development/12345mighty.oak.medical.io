@@ -4176,6 +4176,11 @@ font-style: normal;
   transition: 0.3s;
 }
 
+#sfRemoteUploadFrame {
+  height: 1000px;
+  width: 100%;
+}
+
 /*--------------------------------------------------------------
 # Tabelt and SmartPhone screen sizes
 --------------------------------------------------------------*/
@@ -4228,6 +4233,11 @@ and (max-width: 1023) {
     line-height: 334%;
     width: 82%;
     display: block;
+  }
+
+  #sfRemoteUploadFrame {
+    height: 1400px;
+    width: 100%;
   }
 
   
@@ -4307,6 +4317,11 @@ and (max-width: 1023) {
     font-size: 40px;
     font-family: nulshock;
     float: left;
+  }
+
+  #sfRemoteUploadFrame {
+    height: 1400px;
+    width: 100%;
   }
 
   /*2nd page - Features and Benefits Subtitle*/
@@ -5197,6 +5212,11 @@ and (max-width: 1023) {
     width: auto;
     height: auto;
     float: left;
+  }
+
+  #sfRemoteUploadFrame {
+    height: 1400px;
+    width: 100%;
   }
 
   /*2nd page - Features and Benefits Subtitle*/
@@ -6166,6 +6186,11 @@ and (max-width: 1023) {
   #psg-hero .upload-text p{
     color:rgb(255, 255, 255);
     font-size: 68%;
+  }
+
+  #sfRemoteUploadFrame {
+    height: 1400px;
+    width: 100%;
   }
 
   /*2nd Page Hero*/
@@ -7467,6 +7492,11 @@ and (max-width: 2560px) {
     font-size: 14px;
     width: 60%;
     display: inline-block;
+  }
+
+  #sfRemoteUploadFrame {
+    height: 1000px;
+    width: 100%;
   }
 
 }
