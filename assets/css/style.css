@@ -755,7 +755,6 @@ h6 {
     width: 94%;
     padding: 0 0 0 8%;
   }
-  
 }
 
 /*--------------------------------------------------------------
@@ -1067,6 +1066,12 @@ h6 {
   right: 376px;
   width: 130%;
   height: 190%
+}
+
+#psg-hero .hero-container .upload-comp {
+  height: 100%;
+  width: 126%;
+  margin: 19% 2% 0 -13%;
 }
 
 /* #psg-hero .image-background-team {
