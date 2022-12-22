@@ -1,6 +1,8 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
+@import url('https://fonts.cdnfonts.com/css/nulshock');
+
 @font-face { 
   font-family: nulshock; src: url('nulshock np.otf'); 
   font-family: twCen; src: url('TwCenClassMTStd.otf');
