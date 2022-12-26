@@ -6122,7 +6122,7 @@ and (max-width: 1023) {
 --------------------------------------------------------------*/
 /*Smartphone*/
 @media screen and (min-width: 367px) and
-(max-width: 426px) {
+(max-width: 430px) {
 
   /*Home*/
   .awards {
@@ -7056,6 +7056,8 @@ and (max-width: 1023) {
     width: 435%;
   }
 }
+
+
 
 /*--------------------------------------------------------------
 # Larger monitor screen sizes
