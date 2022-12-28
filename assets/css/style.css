@@ -949,7 +949,7 @@ h6 {
   height: 5px;
   background: radial-gradient(circle at center, #8AC53C, #9198e500);;
   left: 0px;
-  top: 140px;
+  top: 23%;
   position: absolute;
 }
 
@@ -6136,7 +6136,7 @@ and (max-width: 1023) {
     padding-top: 26%;
     padding-left: 11.5%;
     margin: 0;
-    font-size: 133%;
+    font-size: 136%;
     font-family: nulshock;
     float: left;
   }
@@ -6148,7 +6148,7 @@ and (max-width: 1023) {
     height: 3.5px;
     background: radial-gradient(circle at center, #8AC53C, #9198e500);;
     left: 0px;
-    top: 15%;
+    top: 16%;
     position: absolute;
   }
 
@@ -6175,7 +6175,7 @@ and (max-width: 1023) {
     color: #eee;
     padding-top: 2%;
     margin: 0 -10% 0 11.5%;
-    font-size: 70%;
+    font-size: 95%;
     line-height: 334%;
     width: 82%;
     display: block;
@@ -6185,7 +6185,7 @@ and (max-width: 1023) {
     float: left;
     z-index: -10;
     position: relative;
-    padding: 31% 0% 0% 0%;
+    padding: 29% 0% 0% 0%;
     width: 150%;
     height: 100%;
   }
@@ -6219,7 +6219,7 @@ and (max-width: 1023) {
     padding-top: 14%;
     padding-left: 11.5%;
     margin: 0;
-    font-size: 100%;
+    font-size: 115%;
   }
 
   #psg-hero-2 .psg-hero-container-2 .bone-fix-class h2 {
@@ -6234,7 +6234,7 @@ and (max-width: 1023) {
     color: #8AC53C;
     padding: 4% 0% 0% 11.5%;
     margin: 0;
-    font-size: 85%;
+    font-size: 90%;
     display: inline-block;
   }
 
@@ -6242,7 +6242,7 @@ and (max-width: 1023) {
     color: #eee;
     padding: 1% 0% 0% 12%;
     margin: 0% 0% 0% 0%;
-    font-size: 71%;
+    font-size: 88%;
     width: 60%;
     display: inline-block;
   }
@@ -6267,28 +6267,28 @@ and (max-width: 1023) {
     color: #8AC53C;
     padding: 4% 0% 0% 11.5%;
     margin: 0;
-    font-size: 85%;
+    font-size: 90%;
   }
 
   #psg-hero-2 .psg-hero-container-2 .small-fp-class .small-h3 {
     color: #eee;
     padding: 1% 0% 0% 12%;
     margin: 0;
-    font-size: 71%;
+    font-size: 88%;
   }
 
   #psg-hero-2 .psg-hero-container-2 .adj-class .adj-h2 {
     color: #8AC53C;
     padding: 4% 0% 0% 11.5%;
     margin: 0;
-    font-size: 85%;
+    font-size: 90%;
   }
 
   #psg-hero-2 .psg-hero-container-2 .adj-class .adj-h3 {
     color: #eee;
     padding: 4% 0% 0% 11.5%;
     margin: 0;
-    font-size: 71%;
+    font-size: 88%;
   }
 
   #psg-hero-2 .bone-fix-class .bone-fixation-cng {
