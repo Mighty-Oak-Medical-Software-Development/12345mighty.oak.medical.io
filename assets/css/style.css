@@ -2066,15 +2066,30 @@ $mq-retina: "(-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi)"; */
 }
 
 #psg-hero-6 .hero-1 p {
-  padding-top: 15%
+  padding-top: 15%;
+}
+
+#psg-hero-6 .hero-1-ccpa p {
+  padding-top: 15%;
+  font-size: 90%;
 }
 
 #psg-hero .hero-2 p {
-  padding-top: 1%
+  padding-top: 1%;
+}
+
+#psg-hero .hero-2-ccpa p {
+  padding-top: 1%;
+  font-size: 90%;
 }
 
 #psg-hero-2 .hero-2 p {
-  padding-top: 1%
+  padding-top: 1%;
+}
+
+#psg-hero-7 .hero-2-ccpa p {
+  padding-top: 1%;
+  font-size: 90%;
 }
 
 #psg-hero-6 .hero-container-6 {
