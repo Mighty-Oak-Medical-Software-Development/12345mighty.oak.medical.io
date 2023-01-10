@@ -4962,8 +4962,8 @@ and (max-width: 1023) {
 
   #psg-hero-6 .psg-hero-container h1 {
     color: #eee;
-    padding-top: 19.5%;
-    padding-left: 35%;
+    padding-top: 25.5%;
+    padding-left: 14%;
     display: block;
     width: 100%;
     height: 5px;
@@ -5077,56 +5077,56 @@ and (max-width: 1023) {
   #psg-hero-6 .psg-hero-container .fire h2 {
     color: #eee;
     position: absolute;
-    margin: -22px 0px 0px -3px;
+    margin: -31% 0px 0px -46px;
     padding: 258px 0px 0px 97px;
-    font-size: 24px;
-    width: 60%;
+    font-size: 6px;
+    width: 102%;
   }
   
   #psg-hero-6 .psg-hero-container .psg h2 {
     color: #eee;
-    margin: 200px 0px 0px -63px;
+    margin: 16px 0px 0px -109px;
     position: absolute;
-    font-size: 24px;
-    width: 60%;
+    font-size: 7px;
+    width: 129%;
   }
   
   #psg-hero-6 .psg-hero-container .mng h2 {
     color: #eee;
-    margin: 404px 0px 0px -63px;
+    margin: 144px 0px 0px -109px;
     position: absolute;
-    font-size: 24px;
-    width: 60%;
+    font-size: 4px;
+    width: 129%;
   }
   
   #psg-hero-6 .psg-hero-container .cng h2 {
     color: #eee;
-    margin: 600px 0px 0px -63px;
+    margin: 261px 0px 0px -109px;
     position: absolute;
-    font-size: 24px;
-    width: 60%;
+    font-size: 4px;
+    width: 124%;
   }
 
   .vl {
-    font-size: 29px;
+    font-size: 18px;
     text-transform: uppercase;
     color: #8AC53C;
   }
 
   .vl-1 {
-    font-size: 29px;
+    font-size: 18px;
     text-transform: uppercase;
     color: #8AC53C;
   }
 
   .vl-2 {
-    font-size: 29px;
+    font-size: 18px;
     text-transform: uppercase;
     color: #8AC53C;
   }
 
   .vl-3 {
-   font-size: 29px;
+   font-size: 18px;
    text-transform: uppercase;
    color: #8AC53C;
  }
@@ -5142,6 +5142,37 @@ and (max-width: 1023) {
     margin-top: 244px;
     position: absolute;
  }
+
+  .fre-pam {
+    padding: 0 0 0 4%;
+    font-size: 13px;
+  }
+
+  .psg-pam {
+    padding: 0 0 0 4%;
+    font-size: 13px;
+  }
+
+  .mng-pam {
+    padding: 0 0 0 4%;
+    font-size: 13px;
+  }
+
+  .cng-pam {
+    padding: 0 0 0 4%;
+    font-size: 13px;
+  }
+
+  #psg-hero-6 .psg-hero-container-1:after {
+    content: "";
+    display: block;
+    width: 100%;
+    height: 5px;
+    background: radial-gradient(circle at center, #8AC53C, #9198e500);;
+    left: 0px;
+    top: 88px;
+    position: absolute;
+  }
 
 }
 
@@ -5879,7 +5910,7 @@ and (max-width: 1023) {
 
   #psg-hero-6 .psg-hero-container h1 {
     color: #eee;
-    padding-top: 28.5%;
+    padding-top: 26.5%;
     padding-left: 14%;
     display: block;
     width: 100%;
@@ -5996,42 +6027,42 @@ and (max-width: 1023) {
     position: absolute;
     margin: -31% 0px 0px -46px;
     padding: 258px 0px 0px 97px;
-    font-size: 24px;
+    font-size: 6px;
     width: 102%;
   }
   
   #psg-hero-6 .psg-hero-container .psg h2 {
     color: #eee;
-    margin: 47px 0px 0px -109px;
+    margin: 16px 0px 0px -109px;
     position: absolute;
-    font-size: 24px;
+    font-size: 7px;
     width: 129%;
   }
   
   #psg-hero-6 .psg-hero-container .mng h2 {
     color: #eee;
-    margin: 157px 0px 0px -116px;
+    margin: 144px 0px 0px -109px;
     position: absolute;
-    font-size: 24px;
+    font-size: 4px;
     width: 129%;
   }
   
   #psg-hero-6 .psg-hero-container .cng h2 {
     color: #eee;
-    margin: 256px 0px 0px -116px;
+    margin: 261px 0px 0px -109px;
     position: absolute;
-    font-size: 24px;
-    width: 132%;
+    font-size: 4px;
+    width: 124%;
   }
 
   .vl {
-    font-size: 20px;
+    font-size: 18px;
     text-transform: uppercase;
     color: #8AC53C;
   }
 
   .vl-1 {
-    font-size: 20px;
+    font-size: 18px;
     text-transform: uppercase;
     color: #8AC53C;
   }
@@ -6112,22 +6143,22 @@ and (max-width: 1023) {
   
   .fre-pam {
     padding: 0 0 0 4%;
-    font-size: 17px;
+    font-size: 13px;
   }
 
   .psg-pam {
     padding: 0 0 0 4%;
-    font-size: 17px;
+    font-size: 13px;
   }
 
   .mng-pam {
     padding: 0 0 0 4%;
-    font-size: 17px;
+    font-size: 13px;
   }
 
   .cng-pam {
     padding: 0 0 0 4%;
-    font-size: 17px;
+    font-size: 13px;
   }
 
 }
@@ -6958,32 +6989,32 @@ and (max-width: 1023) {
     position: absolute;
     margin: -22px 0px 0px -3px;
     padding: 182px 0px 0px 50px;
-    font-size: 14px;
-    width: 86%;
+    font-size: 9px;
+    width: 89%;
   }
   
   #psg-hero-6 .psg-hero-container .psg h2 {
     color: #eee;
-    margin: 70px 0px 0px -109px;
+    margin: 38px 0px 0px -109px;
     position: absolute;
-    font-size: 14px;
+    font-size: 8px;
     width: 112%;
   }
   
   #psg-hero-6 .psg-hero-container .mng h2 {
     color: #eee;
-    margin: 241px 0px 0px -109px;
+    margin: 162px 0px 0px -109px;
     position: absolute;
-    font-size: 14px;
-    width: 109%;
+    font-size: 10px;
+    width: 113%;
   }
   
   #psg-hero-6 .psg-hero-container .cng h2 {
     color: #eee;
-    margin: 412px 0px 0px -109px;
+    margin: 292px 0px 0px -109px;
     position: absolute;
-    font-size: 14px;
-    width: 122%;
+    font-size: 7px;
+    width: 118%;
   }
 
   #psg-hero-6 .psg-hero-container-1:after {
@@ -6998,25 +7029,25 @@ and (max-width: 1023) {
   }
 
   .fre-pam {
-    font-size: 16px;
+    font-size: 14px;
     text-transform: uppercase;
     color: #8AC53C;
   }
 
   .psg-pam {
-    font-size: 16px;
+    font-size: 14px;
     text-transform: uppercase;
     color: #8AC53C;
   }
 
   .mng-pam {
-    font-size: 16px;
+    font-size: 14px;
     text-transform: uppercase;
     color: #8AC53C;
   }
 
   .cng-pam {
-    font-size: 16px;
+    font-size: 14px;
     text-transform: uppercase;
     color: #8AC53C;
   }
