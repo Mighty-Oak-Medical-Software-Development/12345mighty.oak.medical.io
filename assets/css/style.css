@@ -2232,6 +2232,14 @@ $mq-retina: "(-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi)"; */
   display: inline-block;
 }
 
+#psg-hero-6 .psg-hero-container .patent-desc .patents-img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 56%;
+  padding-top: 14%;
+}
+
 #psg-hero-6 .psg-hero-container .patent-1 h2 {
   color: #eee;
   margin: -178px 0px 0px 0px;
@@ -4261,7 +4269,6 @@ and (max-width: 1023) {
     height: 1400px;
     width: 100%;
   }
-
   
 }
 
@@ -4793,6 +4800,37 @@ and (max-width: 1023) {
     height: 190%
   }
 
+  #psg-hero-6 .psg-hero-container .patent-desc h2 {
+    color: #eee;
+    margin: -20% 0px 0px -46%;
+    font-size: 10px;
+    width: 144%;
+    display: inline-block;
+  }
+
+  #psg-hero-6 .psg-hero-container .patent-1 h2 {
+    color: #eee;
+    margin: -5% 0px 0px -9%;
+    font-size: 13px;
+    width: 92%;
+    display: inline-block;
+  }
+  
+  #psg-hero-6 .psg-hero-container .patent-2 h2 {
+    color: #eee;
+    margin: -64% 0px 0px -46%;
+    font-size: 10px;
+    width: 144%;
+    display: inline-block;
+  }
+  
+  #psg-hero-6 .psg-hero-container .patent-3 h2 {
+    color: #eee;
+    margin: -64% 0px 0px -46%;
+    font-size: 10px;
+    width: 144%;
+    display: inline-block;
+  }
   
   #psg-hero-2 .psg-hero-container-2-tech .bone-section4-h2 {
     color: #8AC53C;
@@ -4962,8 +5000,8 @@ and (max-width: 1023) {
 
   #psg-hero-6 .psg-hero-container h1 {
     color: #eee;
-    padding-top: 25.5%;
-    padding-left: 14%;
+    padding-top: 11.5%;
+    padding-left: 34%;
     display: block;
     width: 100%;
     height: 5px;
@@ -5921,6 +5959,51 @@ and (max-width: 1023) {
     position: absolute;
   }
 
+  #psg-hero-6 .psg-hero-container .psg-hero-container-patent {
+    color: #eee;
+    padding-top: 26.5%;
+    padding-left: 21%;
+    display: block;
+    width: 100%;
+    height: 5px;
+    left: 0px;
+    font-family: nulshock;
+    font-size: 32px;
+    position: absolute;
+  }
+
+  #psg-hero-6 .psg-hero-container .patent-desc h2 {
+    color: #eee;
+    margin: -20% 0px 0px -46%;
+    font-size: 10px;
+    width: 144%;
+    display: inline-block;
+  }
+
+  #psg-hero-6 .psg-hero-container .patent-1 h2 {
+    color: #eee;
+    margin: -64% 0px 0px -46%;
+    font-size: 10px;
+    width: 144%;
+    display: inline-block;
+  }
+  
+  #psg-hero-6 .psg-hero-container .patent-2 h2 {
+    color: #eee;
+    margin: -64% 0px 0px -46%;
+    font-size: 10px;
+    width: 144%;
+    display: inline-block;
+  }
+  
+  #psg-hero-6 .psg-hero-container .patent-3 h2 {
+    color: #eee;
+    margin: -64% 0px 0px -46%;
+    font-size: 10px;
+    width: 144%;
+    display: inline-block;
+  }
+
   /* Pre-Op Process
   #psg-hero-5 .psg-hero-container-5 .pre-op-h2 {
     color: #8AC53C;
@@ -6872,8 +6955,8 @@ and (max-width: 1023) {
 
   #psg-hero-6 .psg-hero-container h1 {
     color: #eee;
-    padding-top: 26.5%;
-    padding-left: 12%;
+    padding-top: 19.5%;
+    padding-left: 23%;
     display: block;
     width: 100%;
     height: 5px;
@@ -6983,6 +7066,46 @@ and (max-width: 1023) {
     margin-right: auto;
     width: 22%;
   } */
+
+  #psg-hero-6 .psg-hero-container .patent-desc .patents-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 96%;
+    padding-top: 47%;
+  }
+  
+  #psg-hero-6 .psg-hero-container .patent-desc h2 {
+    color: #eee;
+    margin: -20% 0px 0px -24%;
+    font-size: 9px;
+    width: 112%;
+    display: inline-block;
+  }
+  
+  #psg-hero-6 .psg-hero-container .patent-1 h2 {
+    color: #eee;
+    margin: -51% 0px 0px -24%;
+    font-size: 9px;
+    width: 119%;
+    display: inline-block;
+  }
+
+  #psg-hero-6 .psg-hero-container .patent-2 h2 {
+    color: #eee;
+    margin: -51% 0px 0px -24%;
+    font-size: 9px;
+    width: 119%;
+    display: inline-block;
+  }
+
+  #psg-hero-6 .psg-hero-container .patent-3 h2 {
+    color: #eee;
+    margin: -51% 0px 0px -24%;
+    font-size: 11px;
+    width: 120%;
+    display: inline-block;
+  }
 
   #psg-hero-6 .psg-hero-container .fire h2 {
     color: #eee;
