@@ -7712,4 +7712,33 @@ and (max-width: 2560px) {
     width: 100%;
   }
 
+@media screen and (min-width: 1440px) 
+  and (max-width: 2440px) {
+
+  #psg-hero-6 .psg-hero-container .patent-1 h2 {
+    color: #eee;
+    margin: -19% 0px 0px 0px;
+    font-size: 14px;
+    width: 90%;
+    display: inline-block;
+  }
+  
+  #psg-hero-6 .psg-hero-container .patent-2 h2 {
+    color: #eee;
+    margin: -19% 0px 0px 0px;
+    font-size: 14px;
+    width: 90%;
+    display: inline-block;
+  }
+  
+  #psg-hero-6 .psg-hero-container .patent-3 h2 {
+    color: #eee;
+    margin: -19% 0px 0px 0px;
+    font-size: 14px;
+    width: 90%;
+    display: inline-block;
+  }
+  
+}
+
 }
