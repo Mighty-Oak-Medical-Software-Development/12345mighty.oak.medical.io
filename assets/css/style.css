@@ -2126,8 +2126,8 @@ $mq-retina: "(-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi)"; */
 
 #psg-hero-6 .psg-hero-container h1 {
   color: #eee;
-  padding-top: 160px;
-  padding-left: 618px;
+  padding-top: 12%;
+  padding-left: 42%;
   display: block;
   width: 100%;
   height: 5px;
@@ -2226,9 +2226,9 @@ $mq-retina: "(-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi)"; */
 
 #psg-hero-6 .psg-hero-container .patent-desc h2 {
   color: #eee;
-  margin: -6px 0px 0px 0px;
+  margin: -3% 0px 0px 0px;
   font-size: 14px;
-  width: 60%;
+  width: 91%;
   display: inline-block;
 }
 
@@ -2242,25 +2242,25 @@ $mq-retina: "(-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi)"; */
 
 #psg-hero-6 .psg-hero-container .patent-1 h2 {
   color: #eee;
-  margin: -178px 0px 0px 0px;
+  margin: -19% 0px 0px 0px;
   font-size: 14px;
-  width: 60%;
+  width: 90%;
   display: inline-block;
 }
 
 #psg-hero-6 .psg-hero-container .patent-2 h2 {
   color: #eee;
-  margin: -178px 0px 0px 0px;
+  margin: -19% 0px 0px 0px;
   font-size: 14px;
-  width: 60%;
+  width: 90%;
   display: inline-block;
 }
 
 #psg-hero-6 .psg-hero-container .patent-3 h2 {
   color: #eee;
-  margin: -178px 0px 0px 0px;
+  margin: -19% 0px 0px 0px;
   font-size: 14px;
-  width: 60%;
+  width: 90%;
   display: inline-block;
 }
 
@@ -4802,33 +4802,33 @@ and (max-width: 1023) {
 
   #psg-hero-6 .psg-hero-container .patent-desc h2 {
     color: #eee;
-    margin: -20% 0px 0px -46%;
-    font-size: 10px;
-    width: 144%;
+    margin: -6% 0px 0px -14%;
+    font-size: 13px;
+    width: 110%;
     display: inline-block;
   }
 
   #psg-hero-6 .psg-hero-container .patent-1 h2 {
     color: #eee;
-    margin: -5% 0px 0px -9%;
+    margin: -27% 0px 0px -14%;
     font-size: 13px;
-    width: 92%;
+    width: 109%;
     display: inline-block;
   }
   
   #psg-hero-6 .psg-hero-container .patent-2 h2 {
     color: #eee;
-    margin: -64% 0px 0px -46%;
-    font-size: 10px;
-    width: 144%;
+    margin: -26% 0px 0px -14%;
+    font-size: 13px;
+    width: 104%;
     display: inline-block;
   }
   
   #psg-hero-6 .psg-hero-container .patent-3 h2 {
     color: #eee;
-    margin: -64% 0px 0px -46%;
+    margin: -26% 0px 0px -14%;
     font-size: 10px;
-    width: 144%;
+    width: 104%;
     display: inline-block;
   }
   
@@ -5000,7 +5000,7 @@ and (max-width: 1023) {
 
   #psg-hero-6 .psg-hero-container h1 {
     color: #eee;
-    padding-top: 11.5%;
+    padding-top: 14.5%;
     padding-left: 34%;
     display: block;
     width: 100%;
